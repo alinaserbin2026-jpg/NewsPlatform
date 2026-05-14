@@ -1,0 +1,14 @@
+<DataSourcesHistory>
+  <DataSourceFromHistory isRemovedFromProject="false">
+    <data-source source="LOCAL" name="db" uuid="a22b87ac-9504-482d-82c4-3c63a48c89f9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" />
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db.sqlite3</jdbc-url>
+      <auth-provider>no-auth</auth-provider>
+      <schema-mapping />
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </DataSourceFromHistory>
+</DataSourcesHistory>
